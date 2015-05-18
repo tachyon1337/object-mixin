@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git://github.com/WebReflection/object-mixin.git"
   },
-  "main": "./build/object-mixin.node.js",
+  "main": "./src/object-mixin.js",
   "scripts": {
     "test": "node test/.test.js"
   },
